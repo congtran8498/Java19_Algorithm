@@ -1,0 +1,7 @@
+414. Third Maximum Number - https://leetcode.com/problems/third-maximum-number/submissions/963018744/
+1051. Height Checker - https://leetcode.com/problems/height-checker/submissions/901023204/
+2418. Sort the People - https://leetcode.com/problems/sort-the-people/submissions/966511225/
+
+2389. Longest Subsequence With Limited Sum - https://leetcode.com/problems/longest-subsequence-with-limited-sum/submissions/967461120/
+389. Find the Difference - https://leetcode.com/problems/find-the-difference/submissions/967445757/
+75. Sort Colors - https://leetcode.com/problems/sort-colors/submissions/967479728/
